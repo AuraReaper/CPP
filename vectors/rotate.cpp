@@ -3,6 +3,7 @@
 #include <cmath>
 using namespace std;
 
+//rotate a given array k times.
 int main() {
     int n,k;
     cout << "enter arrya length: ";
