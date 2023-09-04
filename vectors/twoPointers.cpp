@@ -2,7 +2,8 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-//sort a given array containing only 0 and 1 and return the output containing 0 first and 1 at last
+//sort a given array containing only 0 and 1 and return the output containing 0 first and 1 at last.
+//changes saved
 
 void sortArray(vector<int> &arr){
     int zeroCount = 0;
