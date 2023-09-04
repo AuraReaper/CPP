@@ -3,22 +3,21 @@
 #include <cmath>
 using namespace std;
 //sort a given array containing only 0 and 1 and return the output containing 0 first and 1 at last.
-//changes saved
 
 void sortArray(vector<int> &arr){
-    int zeroCount = 0;
-    for(int i : arr){
-        if(i==0){
-            zeroCount++;
+    int left_ptr=0;
+    int right_ptr=arr.size() - 1;
+    while(left_ptr<right_ptr){
+        if(arr[left_ptr]==1 && arr[right_ptr]==0){
+            swap(arr[left_ptr++],arr[right_ptr--]);
         }
-    }
-    for(int j=0;j<arr.size();j++){
-         if(j<zeroCount){
-            arr[j]=0;
+        if(arr[left_ptr]==0){
+            left_ptr++;
         }
-        else{
-            arr[j]=1;
+        if(arr[right_ptr]==1){
+            right_ptr--;
         }
+
     }
 }
 
