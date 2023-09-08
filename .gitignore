@@ -5,3 +5,5 @@ twoPointers
 .DS_Store
 sortEvenOdd
 sortSquares
+prefixSum
+partitionSumCheck

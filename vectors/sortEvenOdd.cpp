@@ -5,6 +5,7 @@ using namespace std;
 
 /* sort a given array and print even elements in beginning and odd ones at end, the order of
  elements does not matter.
+ ....Two pointers
 */
 
 void sortEvenOdd(vector<int> &arr){
