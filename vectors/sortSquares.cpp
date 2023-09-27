@@ -1,6 +1,4 @@
 #include <bits/stdc++.h>
-#include <iostream>
-#include <cmath>
 using namespace std;
 
 //given a sorted array maybe negative return the squares of the elements in sorted format.

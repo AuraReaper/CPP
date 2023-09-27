@@ -1,6 +1,5 @@
 // given a nxm matrix print all its elements in a spiral oeder.
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 void spiralOrder(vector<vector<int> > &matrix){

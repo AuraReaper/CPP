@@ -2,7 +2,6 @@
 //using prefix sum
 // following array with 1 base index
 #include <bits/stdc++.h>
-#include
 using namespace std;
 
 int main() {

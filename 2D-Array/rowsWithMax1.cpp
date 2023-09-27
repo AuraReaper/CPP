@@ -1,6 +1,5 @@
 // given a boolean 2d array where each row is sorted find the row with max 1.
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 int maxRowOne(vector<vector<int> >&matrix){

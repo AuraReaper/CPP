@@ -1,7 +1,6 @@
 // rotate a gives square matrix to 90 degree clockwise.
 // patter printing method
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 int main() {

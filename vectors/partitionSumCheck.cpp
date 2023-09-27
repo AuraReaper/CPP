@@ -1,7 +1,5 @@
 //check that the prefix sum of a part of the array is equal to the suffix sum of the rest of the array.
 #include <bits/stdc++.h>
-#include <iostream>
-#include <cmath>
 using namespace std;
 
 bool sumCheck(vector<int> &arr,int totalSum){

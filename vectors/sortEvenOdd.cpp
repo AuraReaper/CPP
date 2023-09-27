@@ -1,6 +1,4 @@
 #include <bits/stdc++.h>
-#include <iostream>
-#include <cmath>
 using namespace std;
 
 /* sort a given array and print even elements in beginning and odd ones at end, the order of

@@ -5,7 +5,6 @@
 runs till the first loop max value 
 */
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 void rotateMatrix(vector<vector<int> > &matrix,int n){

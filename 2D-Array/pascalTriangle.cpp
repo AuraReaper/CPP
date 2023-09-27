@@ -1,6 +1,5 @@
 // printing pascal triangle using 3d vector concept.
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 vector<vector<int> > pascalTriangle(int n){

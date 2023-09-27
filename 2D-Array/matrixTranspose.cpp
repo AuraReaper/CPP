@@ -1,6 +1,5 @@
 // print the trnspose of a matrix using 2d array concept.
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 int main() {

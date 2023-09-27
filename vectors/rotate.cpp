@@ -1,6 +1,4 @@
 #include <bits/stdc++.h>
-#include <iostream>
-#include <cmath>
 using namespace std;
 
 //rotate a given array k times.

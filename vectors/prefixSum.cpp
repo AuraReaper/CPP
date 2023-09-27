@@ -1,7 +1,5 @@
 //given an integer array , return the prefix sum or running sum in the same array
 #include <bits/stdc++.h>
-#include <iostream>
-#include <cmath>
 using namespace std;
 
 void prefixSum(vector<int> &arr){

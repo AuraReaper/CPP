@@ -1,6 +1,5 @@
 // pascals triangle patter using basic for loop just for practice.
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 int fact(int num){

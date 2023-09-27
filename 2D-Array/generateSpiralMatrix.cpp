@@ -1,6 +1,5 @@
 // given n create a nxn matrix having elements from 1 to n*n in spiral order.
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 void generateMatrix(vector<vector<int> > &matrix,int n){

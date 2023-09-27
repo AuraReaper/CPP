@@ -1,7 +1,6 @@
 //basic program on 2d array to multiply 2 matrix.
 // it is the most important problem of 2d array.
 #include <bits/stdc++.h>
-#include <iostream>
 using namespace std;
 
 int main() {
