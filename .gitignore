@@ -1,4 +1,5 @@
 .vscode
+.DS_Store
 queries
 rotate
 twoPointers
@@ -17,3 +18,4 @@ matrixRotation
 matrixRotationBadMethod
 spiralMatrixPatter
 generateSpiralMatrix
+sumOfDigits
