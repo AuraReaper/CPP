@@ -1,5 +1,0 @@
-whenever we have to perform such operations in which we have to sort some elements of an array at
-last and the others at first we can use two ponters system od solving a problem
-1. first declare a left-ptr incrasing from o to n and a right _ptr decreasing from n to 0
-2. loop using while till left_ptr<right_ptr
-3. cheh the conditions and sort according questions.
